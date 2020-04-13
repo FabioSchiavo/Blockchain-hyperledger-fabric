@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "shareAssetExists",
+        "transactionLabel": "A test shareAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createShareAsset",
+        "transactionLabel": "A test createShareAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readShareAsset",
+        "transactionLabel": "A test readShareAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateShareAsset",
+        "transactionLabel": "A test updateShareAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteShareAsset",
+        "transactionLabel": "A test deleteShareAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
